@@ -1,0 +1,19 @@
+{
+  "nextId": 4,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Carlos",
+      "balance": 90015
+    },
+    {
+      "id": 2,
+      "name": "Carlos1",
+      "balance": 90015
+    },
+    {
+      "id": 3,
+      "name": "Carlos1"
+    }
+  ]
+}

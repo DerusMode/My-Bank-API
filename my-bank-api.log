@@ -1,0 +1,23 @@
+2023-10-18T01:43:52.500Z [my-bank-api]: API Started & Running!
+2023-10-18T01:46:24.277Z [my-bank-api]: API Started & Running!
+2023-10-18T01:51:39.351Z [my-bank-api]: API Started & Running!
+2023-10-18T01:52:21.746Z [my-bank-api]: API Started & Running!
+2023-10-18T01:52:35.121Z [my-bank-api]: API Started & Running!
+2023-10-18T01:52:50.442Z [my-bank-api]: API Started & Running!
+2023-10-18T01:53:07.973Z [my-bank-api]: API Started & Running!
+2023-10-18T01:53:16.162Z [my-bank-api]: API Started & Running!
+2023-10-18T01:55:21.345Z [my-bank-api]: API Started & Running!
+2023-10-18T01:56:04.986Z [my-bank-api]: API Started & Running!
+2023-10-18T01:56:21.048Z [my-bank-api]: API Started & Running!
+2023-10-18T02:02:26.376Z [my-bank-api]: API Started & Running!
+2023-10-18T02:02:31.048Z [my-bank-api]: GET /account
+2024-01-05T22:52:12.191Z [my-bank-api]: API Started & Running!
+2024-01-05T23:02:50.559Z [my-bank-api]: POST /account - {"id":1,"name":"Carlos","balance":90015}
+2024-01-05T23:10:31.940Z [my-bank-api]: API Started & Running!
+2024-01-05T23:10:41.951Z [my-bank-api]: API Started & Running!
+2024-01-05T23:11:50.771Z [my-bank-api]: API Started & Running!
+2024-01-05T23:15:56.719Z [my-bank-api]: POST /account - {"id":2,"name":"Carlos1","balance":90015}
+2024-01-05T23:18:04.661Z [my-bank-api]: API Started & Running!
+2024-01-05T23:18:38.070Z [my-bank-api]: POST /account - {"id":3,"name":"Carlos1"}
+2024-01-06T01:10:37.293Z [my-bank-api]: API Started & Running!
+2024-01-06T01:20:09.487Z [my-bank-api]: API Started & Running!
